@@ -1,0 +1,19 @@
+{
+  "name": "@vanilla-extract/example",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vanilla-extract/css": "^1.14.2",
+    "@vanilla-extract/vite-plugin": "^4.0.7",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.8"
+  },
+  "dependencies": {
+    "ts-deepmerge": "^2.0.1"
+  }
+}
